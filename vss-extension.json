@@ -4,7 +4,7 @@
   "name": "Azure DevOps Heroku Tools",
   "version": "0.1.0",
   "publisher": "ckrnstck",
-  "public": false,
+  "public": true,
   "targets": [
     {
       "id": "Microsoft.VisualStudio.Services"
